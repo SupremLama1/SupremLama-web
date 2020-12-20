@@ -1,0 +1,21 @@
+h1 {  
+    font-family: fantasy;
+    font-size: 30px;
+    color: cornflowerblue;
+    margin-left: 30px;
+}
+
+body{
+    background-color: orange;
+}
+
+h4 {
+    font-family: cursive;
+    font-size: 40px;
+    color: red;
+}
+p {
+    font-family: fantasy;
+    font-size: 35px;
+    color: white;
+}
